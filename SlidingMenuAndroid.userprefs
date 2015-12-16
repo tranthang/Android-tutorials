@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="SlidingMenuAndroid.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (KitKat)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ItemTouchListener.cs">
+    <Files>
+      <File FileName="MainActivity.cs" Line="132" Column="5" />
+      <File FileName="GestureListener.cs" Line="37" Column="7" />
+      <File FileName="ItemTouchListener.cs" Line="36" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SlidingMenuAndroid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

@@ -1,0 +1,8 @@
+/Users/admin/Desktop/ResourceAndropid/GestureSwipeXamarin.Android/obj/Debug/assemblies/AndroidGesture.dll
+/Users/admin/Desktop/ResourceAndropid/GestureSwipeXamarin.Android/obj/Debug/assemblies/System.dll
+/Users/admin/Desktop/ResourceAndropid/GestureSwipeXamarin.Android/obj/Debug/assemblies/System.Xml.dll
+/Users/admin/Desktop/ResourceAndropid/GestureSwipeXamarin.Android/obj/Debug/assemblies/Mono.Android.dll
+/Users/admin/Desktop/ResourceAndropid/GestureSwipeXamarin.Android/obj/Debug/assemblies/System.Core.dll
+/Users/admin/Desktop/ResourceAndropid/GestureSwipeXamarin.Android/obj/Debug/assemblies/mscorlib.dll
+/Users/admin/Desktop/ResourceAndropid/GestureSwipeXamarin.Android/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/admin/Desktop/ResourceAndropid/GestureSwipeXamarin.Android/obj/Debug/assemblies/System.ServiceModel.Internals.dll
